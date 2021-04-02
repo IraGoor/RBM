@@ -43,7 +43,9 @@ conda activate base
 python main.py
 ```
 - Run Example
-
+- RBM training
+![alt text]https://github.com/IraGoor/RBM/blob/main/Batch.png
+![alt text]https://github.com/IraGoor/RBM/blob/main/Training%20Set.png
 ### Prerequisites and Libraries
 - Spyder (IDE)
 - Anaconda (Python3 Distribution)
